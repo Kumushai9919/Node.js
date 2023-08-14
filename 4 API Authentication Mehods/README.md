@@ -6,7 +6,7 @@
 <img width="1501" alt="Screenshot 2023-08-14 at 7 35 07 PM" src="https://github.com/Kumushai9919/Node.js/assets/83897840/657b96f4-97a9-40b3-85b7-e6045ab6c2fa">
 
 ### Authentication
-##### Made API Authentication by using Postman and this API documentation -> https://secrets-api.appbrewery.com/ 
+##### Made API Authentication by using Postman and this API documentation by simply getting funny secrets from APIs-> https://secrets-api.appbrewery.com/ 
  
 #### 1. No Authentication
 - Many public APIs usually is used without no authentication, just with request limitations
